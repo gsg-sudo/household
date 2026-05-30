@@ -1,0 +1,6 @@
+{
+  "name": "Household Resource Manager",
+  "description": "Clean, installable companion for household resource tracking, trip budgeting, reminders, and Kathabook bookkeeping with smart AI parsing input.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
